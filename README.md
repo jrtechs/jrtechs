@@ -1,16 +1,22 @@
-### Hi there 👋
+## HOW DA HECK DID YOU GET TO MY GITHUB PROFILE?!?!?!
 
-<!--
-**jrtechs/jrtechs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Now that you are here, you might as well check out ALL my open source projects! I got everything from machine learning to web development. Feel free to poke around my code and open issues and pull requests.
 
-Here are some ideas to get you started:
+### What I'm Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Github Graphs](https://github.com/jrtechs/github-graphs)
+- [Steam Graphs](https://github.com/jrtechs/SteamFriendsGraph)
+- [Jrtechs](https://jrtechs.net/)
+- [Scala Alert API and Dashboard](https://github.com/jrtechs/alert-api)
+
+### Where to Find Me
+
+- [LinkedIn](https://www.linkedin.com/public-profile/in/jrtechs)
+- [Blog](https://jrtechs.net/)
+- [Website](https://jrtechs.me/)
+- [Gitea](https://git.jrtechs.net/jrtechs)
+- [Youtube](https://www.youtube.com/c/JrtechsNet)
+
+<p align="left">
+  <img src="https://jrtechs.net/api/recentSVG" alt="Recent Blog Posts"></img>
+</p>
