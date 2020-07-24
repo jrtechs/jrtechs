@@ -18,5 +18,7 @@ Now that you are here, you might as well check out ALL my open source projects! 
 - [Youtube](https://www.youtube.com/c/JrtechsNet)
 
 <p align="left">
-  <img src="https://jrtechs.net/api/recentSVG.svg" alt="Recent Blog Posts"></img>
+  <a href="https://jrtechs.net">
+    <img src="https://jrtechs.net/api/recentSVG.svg" alt="Recent Blog Posts"></img>
+  </a>
 </p>
